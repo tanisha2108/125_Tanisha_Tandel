@@ -1,0 +1,16 @@
+{
+  "name": "scripts_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+  "test": "node test.js",
+  "greet": "node greet.js",
+  "clean": "echo Cleaning temp files...",
+  "about": "echo This is a demo Node.js app for Q8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
